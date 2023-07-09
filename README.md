@@ -1,6 +1,2 @@
 # SQL-project
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
-
-Please feel free to take these and run with them. Make them your own and find you own insights
-
-I really do hope this is helpful and helps you land that dream job! :D
+The Covid-19 Data Exploration project involved using various SQL skills such as Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types to analyze and explore Covid-19 data. The project aimed to uncover trends and patterns in the data, and to provide insights into the impact of the pandemic. Through this project, the team gained valuable experience in manipulating and analyzing large datasets using SQL, and in developing effective data exploration strategies.
